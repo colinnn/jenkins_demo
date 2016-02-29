@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" build-on-make="true" name="jenkins_demo:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="jenkins_demo.war">
+      <element id="artifact" artifact-name="jenkins_demo:war exploded" />
+    </root>
+  </artifact>
+</component>
